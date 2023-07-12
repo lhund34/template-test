@@ -1,0 +1,8 @@
+html {
+    box-sizing: border-box; /* immer hinzufügen, prevents padding from adding width or height */
+}
+
+body {
+    margin: zero;
+    min-height: 100vh; /*body ist immer 100% des screens*/
+}
